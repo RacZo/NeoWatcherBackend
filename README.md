@@ -3,6 +3,8 @@ Neo Watcher Backend
 
 This project is the backend for the Neo Watcher app (https://github.com/RacZo/NeoWatcher) made at Space Apps NYC 2016.
 
+![Neo Watcher on IBM BlueMix](IBM-BlueMix.png)
+
 ## Building with Maven
 
 This project can be built with [Apache Maven](http://maven.apache.org/). Use the following steps to run the application with Maven:
